@@ -1,1 +1,1 @@
-# Pineapple
+# 🍍Pineapple: A Simple and Blank Shield to Cover Unwanted Items
